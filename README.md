@@ -2,13 +2,11 @@
 
 <h1>archibee</h1>
 
-<h3>personal repository archive</h3>
-
 <p><code>collecting · cataloging · preserving</code></p>
 
 <hr>
 
-<h2>about this archive</h2>
+<h2>⬡ about this archive ⬡</h2>
 
 <p>
   <strong>archibee</strong> is a personal archive account for repositories<br>
@@ -21,7 +19,7 @@
   others are simply things i would rather not lose.
 </p>
 
-<h2>archive policy</h2>
+<h2>⬡ archive policy ⬡</h2>
 
 <p>
   original authorship always belongs to the source repository.<br>
@@ -30,9 +28,12 @@
   the original repository should be preferred when it remains available.
 </p>
 
-<hr>
+<p>
+  snapshots and key data are periodically backed up via <a href="https://web.archive.org/">Wayback Machine</a><br>
+  to ensure long-term preservation beyond local copies.
+</p>
 
-<h3>⬡ archibee archive ⬡</h3>
+<hr>
 
 <p><em>small collections can still carry long memories.</em></p>
 
