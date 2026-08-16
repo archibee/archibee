@@ -1,40 +1,40 @@
 <div align="center">
 
-<h1>archibee</h1>
+<h1>ARCHIBEE</h1>
 
-<p><code>collecting · cataloging · preserving</code></p>
-
-<hr>
-
-<h2>⬡ about this archive ⬡</h2>
-
-<p>
-  <strong>archibee</strong> is a personal archive account for repositories<br>
-  i want to preserve, revisit, and keep within reach.
-</p>
-
-<p>
-  some projects are collected because they are useful.<br>
-  some are technically interesting.<br>
-  others are simply things i would rather not lose.
-</p>
-
-<h2>⬡ archive policy ⬡</h2>
-
-<p>
-  original authorship always belongs to the source repository.<br>
-  forks are preserved as references, not claimed as original work.<br>
-  repository history and attribution are kept whenever possible.<br>
-  the original repository should be preferred when it remains available.
-</p>
-
-<p>
-  snapshots and key data are periodically backed up via <a href="https://web.archive.org/">Wayback Machine</a><br>
-  to ensure long-term preservation beyond local copies.
-</p>
+<p><code>COLLECTING · CATALOGING · PRESERVING</code></p>
 
 <hr>
 
-<p><em>small collections can still carry long memories.</em></p>
+<h2>⬡ ABOUT THIS ARCHIVE ⬡</h2>
+
+<p>
+  ARCHIBEE IS A PERSONAL ARCHIVE ACCOUNT FOR REPOSITORIES<br>
+  I WANT TO PRESERVE, REVISIT, AND KEEP WITHIN REACH.
+</p>
+
+<p>
+  SOME PROJECTS ARE COLLECTED BECAUSE THEY ARE USEFUL.<br>
+  SOME ARE TECHNICALLY INTERESTING.<br>
+  OTHERS ARE SIMPLY THINGS I WOULD RATHER NOT LOSE.
+</p>
+
+<h2>⬡ ARCHIVE POLICY ⬡</h2>
+
+<p>
+  ORIGINAL AUTHORSHIP ALWAYS BELONGS TO THE SOURCE REPOSITORY.<br>
+  FORKS ARE PRESERVED AS REFERENCES, NOT CLAIMED AS ORIGINAL WORK.<br>
+  REPOSITORY HISTORY AND ATTRIBUTION ARE KEPT WHENEVER POSSIBLE.<br>
+  THE ORIGINAL REPOSITORY SHOULD BE PREFERRED WHEN IT REMAINS AVAILABLE.
+</p>
+
+<p>
+  SNAPSHOTS AND KEY DATA ARE PERIODICALLY BACKED UP VIA <a href="https://web.archive.org/">WAYBACK MACHINE</a><br>
+  TO ENSURE LONG-TERM PRESERVATION BEYOND LOCAL COPIES.
+</p>
+
+<hr>
+
+<p><em>SMALL COLLECTIONS CAN STILL CARRY LONG MEMORIES.</em></p>
 
 </div>
