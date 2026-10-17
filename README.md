@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>ARCHIBEE</h1>
+<h2>SMALL COLLECTIONS CAN STILL CARRY LONG MEMORIES.</h2>
 
 <p>
 <div align="center">
@@ -9,8 +9,6 @@
   </a>
 </div>  
 </p>
-
-<hr>
 
 <h2>⬡ ABOUT THIS ARCHIVE ⬡</h2>
 
@@ -38,9 +36,5 @@
   SNAPSHOTS AND KEY DATA ARE PERIODICALLY BACKED UP VIA <a href="https://web.archive.org/">WAYBACK MACHINE</a><br>
   TO ENSURE LONG-TERM PRESERVATION BEYOND LOCAL COPIES.
 </p>
-
-<hr>
-
-<p><em>SMALL COLLECTIONS CAN STILL CARRY LONG MEMORIES.</em></p>
 
 </div>
